@@ -8,4 +8,9 @@ public class Main {
     private void someFunction(){
         System.out.println("Some kind of function");
     }
+
+    private String someFunctionVariant(){
+        return "Some kind of text";
+    }
+
 }
