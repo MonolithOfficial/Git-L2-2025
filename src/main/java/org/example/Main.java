@@ -6,6 +6,6 @@ public class Main {
     }
 
     private void someFunction(){
-        System.out.println("Some kind of function");
+        System.out.println("CHANGED VALUE");
     }
 }
