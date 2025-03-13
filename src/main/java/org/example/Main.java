@@ -6,7 +6,11 @@ public class Main {
     }
 
     private void someFunction(){
+        System.out.println("BETTER MASTER CODE");
         System.out.println("CHANGED VALUE");
+        System.out.println("BETTER MASTER CODE");
+        System.out.println("BETTER MASTER CODE");
+        System.out.println("BETTER MASTER CODE");
     }
 
     private String someFunctionVariant(){
